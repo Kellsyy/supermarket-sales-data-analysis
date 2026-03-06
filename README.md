@@ -119,7 +119,7 @@ The analysis includes:
 
 Notebook file:
 
-python/supermarket_analysis.ipynb
+python/Supermarket Sales Analysis.ipynb
 
 ---
 
