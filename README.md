@@ -101,7 +101,7 @@ Key metrics included:
 
 ### Dashboard Preview
 
-![Excel Dashboard](images/excel-dashboard.png)
+![Excel Dashboard](Images/Excel-dashboard.png)
 
 ---
 
@@ -154,7 +154,7 @@ Features include:
 
 ### Dashboard Preview
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](Images/powerbi-dashboard.png)
 
 ---
 
