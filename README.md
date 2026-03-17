@@ -151,6 +151,9 @@ Excel was used to create a **sales performance dashboard** using pivot tables, c
 
 ![Excel Dashboard](Images/Excel-dashboard.png)
 
+
+![Power BI Dashboard](Images/PowerBI-Unfinished.png)
+
 ---
 
 # 🐍 Python Analysis
