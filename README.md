@@ -119,14 +119,8 @@ sql/supermarket_analysis.sql
 ## Power BI
 
 🚧 **Currently in progress**
-
-Planned dashboard features:
-
-- KPI cards
-- Revenue analysis visuals
-- Interactive slicers
-- Product line performance charts
-- Sales trends by time
+### Dashboard Preview
+![Power BI Dashboard](Images/PowerBI-Unfinished.png)
 
 Dashboard File:
 
@@ -152,7 +146,7 @@ Excel was used to create a **sales performance dashboard** using pivot tables, c
 ![Excel Dashboard](Images/Excel-dashboard.png)
 
 
-![Power BI Dashboard](Images/PowerBI-Unfinished.png)
+
 
 ---
 
